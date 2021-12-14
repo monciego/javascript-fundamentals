@@ -9,3 +9,4 @@
   3. [external](https://github.com/monciego/javascript-fundamentals/blob/main/fundamentals/02-external/index.html)
 
 - #### [Helper Methods](https://github.com/monciego/javascript-fundamentals/tree/main/fundamentals/03-helper-methods)
+- #### [Variables](https://github.com/monciego/javascript-fundamentals/tree/main/fundamentals/04-variables)
