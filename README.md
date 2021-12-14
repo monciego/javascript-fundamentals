@@ -11,3 +11,4 @@
 - #### [Helper Methods](https://github.com/monciego/javascript-fundamentals/tree/main/fundamentals/03-helper-methods)
 - #### [Variables](https://github.com/monciego/javascript-fundamentals/tree/main/fundamentals/04-variables)
   - #### [Variable naming rules](https://github.com/monciego/javascript-fundamentals/tree/main/fundamentals/05-variable-naming-rules)
+- #### [JavaScript Keywords](https://github.com/monciego/javascript-fundamentals/tree/main/fundamentals/06-javascript-keywords)
