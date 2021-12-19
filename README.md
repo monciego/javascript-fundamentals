@@ -13,3 +13,4 @@
   - #### [Variable naming rules](https://github.com/monciego/javascript-fundamentals/tree/main/fundamentals/05-variable-naming-rules)
 - #### [JavaScript Keywords](https://github.com/monciego/javascript-fundamentals/tree/main/fundamentals/06-javascript-keywords)
 - #### [let, const and var](https://github.com/monciego/javascript-fundamentals/tree/main/fundamentals/07-let-const-var)
+- #### [string concatenation](https://github.com/monciego/javascript-fundamentals/tree/main/fundamentals/08-string-concatenation)
