@@ -59,3 +59,39 @@
 | 47  | Reduce                                     | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/47-reduce)                                      |
 | 48  | Math Object                                | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/48-math-object)                                 |
 | 49  | Date Object                                | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/49-date-object)                                 |
+
+### [DOM](https://github.com/monciego/mastering-javascript/tree/main/dom)
+
+| #   | Topic                                        | Code                                                                                                              |
+| :-- | :------------------------------------------- | :---------------------------------------------------------------------------------------------------------------- |
+| 50  | DOM - General Concepts                       | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/50-dom-general-concepts)                     |
+| 51  | Window And Document Overview                 | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/51-window-and-document)                      |
+| 52  | GetElementById                               | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/52-getElementById)                           |
+| 53  | Get Elements By Tag Name                     | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/53-getElementByTagName)                      |
+| 54  | Get Elements By Class Name                   | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/54-getElementByClassName)                    |
+| 55  | QuerySelector And QuerySelectorAll           | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/55-querySelector-querySelectorAll)           |
+| 56  | Navigate The Dom - Children                  | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/56-children)                                 |
+| 57  | Navigate The Dom - Parent Element            | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/57-parent-element)                           |
+| 58  | Navigate The Dom - NextSibling, PrevSibling  | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/58-nextSibling-prevSibling)                  |
+| 59  | Navigate The Dom - Next/Prev Element Sibling | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/59-nextElementSibling-prevElementSibling)    |
+| 60  | TextContent And NodeValue                    | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/60-textContent-nodeValue)                    |
+| 61  | GetAttribute(), SetAttribute()               | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/61-getAttribute-setAttribute)                |
+| 62  | ClassList And ClassName                      | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/62-classList-className)                      |
+| 63  | CreateElement                                | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/63-createElement-createTextNode-appendChild) |
+| 64  | InsertBefore                                 | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/64-insertBefore)                             |
+| 65  | ReplaceChild                                 | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/65-replace-child)                            |
+| 66  | Prepend InnerText                            | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/66-prepend-innerText)                        |
+| 67  | Remove And RemoveChild                       | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/67-remove-removeChild)                       |
+| 68  | InnerHTML And TextContent                    | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/68-innerHTML-textContent)                    |
+| 69  | Change CSS With Style Property               | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/69-changing-css)                             |
+| 70  | Click Event                                  | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/70-click-event)                              |
+| 71  | Function Reference                           | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/71-function-reference)                       |
+| 72  | Mouse Events                                 | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/72-mouse-events)                             |
+| 73  | Key Events                                   | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/73-key-events)                               |
+| 74  | Event Object                                 | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/74-event-object)                             |
+| 75  | CurrentTarget Vs Target                      | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/75-currentTarget-target)                     |
+| 76  | Event Bubbling Capturing                     | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/76-event-bubbling-and-capturing)             |
+| 77  | Event Propogation Example                    | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/77-event-propogation-example)                |
+| 78  | Form Submit                                  | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/78-form-submit)                              |
+| 79  | Local Storage                                | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/79-local-storage)                            |
+| 80  | Local Storage With Multiple Values           | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/80-local-storage-with-mulitple-values)       |
