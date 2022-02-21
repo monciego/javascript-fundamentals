@@ -33,3 +33,29 @@
 | 26  | While Loops                       | [</>](https://github.com/monciego/mastering-javascript/tree/main/fundamentals/26-while-loop)                     |
 | 27  | Do While Loops                    | [</>](https://github.com/monciego/mastering-javascript/tree/main/fundamentals/27-do-while-loop)                  |
 | 28  | For Loop                          | [</>](https://github.com/monciego/mastering-javascript/tree/main/fundamentals/28-for-loop)                       |
+
+### [Connecting the dots](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots)
+
+| #   | Topic                                      | Code                                                                                                                                 |
+| :-- | :----------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| 29  | String Properties And Methods              | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/29-string-properties-and-methods)               |
+| 30  | Template Literals                          | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/30-template-literals)                           |
+| 31  | Array Properties And Methods               | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/31-array-properties-and-methods)                |
+| 32  | Array and for loop - Exercise              | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/32-array-and-forloop-exercise)                  |
+| 33  | Calculate - Exercise                       | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/33-calculate-exercise)                          |
+| 34  | Value Vs. Reference                        | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/34-value-vs-reference)                          |
+| 35  | Null And Undefined                         | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/35-null-and-undefined)                          |
+| 36  | Truthy And Falsy                           | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/36-truthy-and-falsy)                            |
+| 37  | Ternary Operator                           | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/37-ternary-operator)                            |
+| 38  | Global Scope                               | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/38-global-scope)                                |
+| 39  | Local Scope                                | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/39-local-scope)                                 |
+| 40  | Variable Lookup                            | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/40-variable-lookup)                             |
+| 41  | Callback Functions, Higher Order Functions | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/41-callback-functions-and-high-order-functions) |
+| 42  | Array Iterators                            | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/42-array-iterators)                             |
+| 43  | For Each                                   | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/43-forEach)                                     |
+| 44  | Map                                        | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/44-map)                                         |
+| 45  | Filter                                     | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/45-filter)                                      |
+| 46  | Find                                       | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/46-find)                                        |
+| 47  | Reduce                                     | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/47-reduce)                                      |
+| 48  | Math Object                                | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/48-math-object)                                 |
+| 49  | Date Object                                | [</>](https://github.com/monciego/mastering-javascript/tree/main/connecting-the-dots/49-date-object)                                 |
