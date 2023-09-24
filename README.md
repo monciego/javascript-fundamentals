@@ -1,5 +1,25 @@
 # **Mastering JavaScript**
 
+Welcome to my "Mastering JavaScript" repository! This collection of topics and exercises is designed to help you learn and master the fundamentals of JavaScript.
+
+Explore the various sections below to deepen your understanding of JavaScript's key concepts:
+
+## Fundamentals
+
+Covering essential JavaScript topics from variables and data types to conditional statements and loops.
+
+## Connecting the Dots
+
+Building on the fundamentals, these sections connect the dots and delve into more advanced concepts like string manipulation, array methods, and working with the DOM.
+
+## DOM (Document Object Model)
+
+Uncover the power of JavaScript in the web browser by learning how to manipulate HTML and interact with users through the Document Object Model.
+
+Each topic includes code examples to illustrate key concepts and practices. Feel free to explore, learn, and use these resources to enhance your JavaScript skills.
+
+Happy coding!
+
 ### [Fundamentals](https://github.com/monciego/mastering-javascript/tree/main/fundamentals)
 
 | #   | Topic                             | Code                                                                                                             |
@@ -95,3 +115,12 @@
 | 78  | Form Submit                                  | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/78-form-submit)                              |
 | 79  | Local Storage                                | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/79-local-storage)                            |
 | 80  | Local Storage With Multiple Values           | [</>](https://github.com/monciego/mastering-javascript/tree/main/dom/80-local-storage-with-mulitple-values)       |
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+**Interested in contributing?**
+Please read our [Contributing Guide](CONTRIBUTING.md) to get started.
