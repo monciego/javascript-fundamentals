@@ -124,3 +124,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Interested in contributing?**
 Please read our [Contributing Guide](CONTRIBUTING.md) to get started.
+
+## Acknowledgment
+
+The code examples and topics covered in this repository are directly sourced from the tutorials and content created by [Coding Addict](https://www.youtube.com/c/CodingAddict) (John Smilga) on YouTube. We acknowledge and thank John Smilga for his exceptional tutorials, which form the foundation of this project.
